@@ -1,0 +1,2 @@
+# NN4Mnist
+CNNforMNIST
